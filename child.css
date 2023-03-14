@@ -1,0 +1,97 @@
+/*style your template in an external CSS stylesheet*/
+
+
+
+/*
+.column-1 {
+    width: 250px;
+    text-align: center;
+  }
+  
+  .column-2 {
+    background-color:#ebe4e4;
+    width:250px;
+    
+  }
+  
+  /*Nav Bar*/
+ /* .column-3 {
+    background-color:#cac9ba;
+    height:80px;
+    width:81px;
+  }
+
+  .column-4 {
+    background-color: rgb(255, 192, 238);
+    width:900px;
+  }
+
+  .column-1,.column-2, .column-3 {
+    border:1.5px rgb(218, 218, 230) solid;
+  }
+
+  
+  @media (min-width: 400px) {
+  .column-1  {
+    background-color: rgb(167, 186, 180);
+    color:blue;
+    height:40vh;
+   }  
+  }
+
+  @media (min-width: 30em) and (max-width: 50em) {
+    .column-4 {
+      color:yellow;
+      height: 400px; /*40vh*/
+/*    }
+  }
+  */
+
+
+ /*Use for Cirrus html*/ 
+
+ /*
+  .col{
+    padding: 0px;
+    margin: 5px;
+    border-radius: 7px;
+    font-size: 24px;
+    text-align: center;
+    height: 45vh; 
+  } */
+
+  body {
+    background-color: rgb(57, 55, 55);
+  }
+
+  .col-1, .col-2, .col-3 {
+    height:75vh;
+    text-align: center;
+  }
+
+  .col-nav {
+    background-color:  rgb(228, 219, 219);
+    height: 10vh;
+  }
+  
+  .col-1 {
+    background-color: rgb(211, 211, 211);
+  }
+
+  .col-inbox {
+    background-color: rgb(189, 183, 194);
+  }
+
+  
+  .col-2 {
+    background-color: rgb(229, 228, 226);
+  }
+  
+  .col-3 {
+    background-color: rgb(254,251,234);
+  }
+  
+  .col-footer {
+    background-color:rgb(116, 140, 140);
+    height: 5vh;
+  }
